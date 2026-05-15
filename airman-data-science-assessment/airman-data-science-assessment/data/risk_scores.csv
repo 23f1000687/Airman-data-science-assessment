@@ -1,0 +1,4 @@
+cadet_id,name,course,flight_progress_pct,avg_quiz_score,payment_outstanding_pct,sortie_cancel_rate,avg_delay_min,study_days_inactive,risk_score,risk_level,main_risk_reasons
+C001,Arjun Menon,PPL,63.3,70.0,16.0,0.0,13.0,4,22.5,Low,Low flight progress; Low study progress; High outstanding payment
+C002,Meera Iyer,CPL,37.0,51.5,26.190476190476193,50.0,12.5,7,45.9,Medium,Low flight progress; Low study progress; High cancellation rate
+C003,Rahul Nair,PPL,26.7,42.0,50.0,66.66666666666666,10.0,17,62.8,Medium,Low flight progress; Low study progress; High outstanding payment

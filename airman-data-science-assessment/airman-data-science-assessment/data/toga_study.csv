@@ -1,0 +1,6 @@
+cadet_id,subject,chapters_completed,total_chapters,avg_quiz_score,last_active_date,practice_tests_attempted
+C001,Meteorology,14,25,62,2026-05-10,3
+C001,Navigation,20,30,78,2026-05-11,4
+C002,Air Regulations,10,28,54,2026-05-08,2
+C002,Meteorology,8,25,49,2026-05-04,1
+C003,Navigation,5,30,42,2026-04-28,1

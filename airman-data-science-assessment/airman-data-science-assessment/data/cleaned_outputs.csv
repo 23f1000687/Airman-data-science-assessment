@@ -1,0 +1,4 @@
+cadet_id,name,course,home_base,total_required_hours,total_flown_hours,enrollment_date,progress_pct,remaining_hours,days_enrolled,flying_rate,avg_quiz,avg_study_pct,days_inactive,total_practice,invoiced_amount,paid_amount,outstanding_amount,outstanding_pct,days_since_pay,total_sorties,completed,cancelled,cancel_rate,avg_delay
+C001,Arjun Menon,PPL,B01,45,28.5,2026-01-10,63.3,16.5,125,0.228,70.0,61.33333333333333,4,7,250000,210000,40000,16.0,10,5,5,0,0.0,13.0
+C002,Meera Iyer,CPL,B01,200,74.0,2025-11-18,37.0,126.0,178,0.416,51.5,33.85714285714286,7,3,420000,310000,110000,26.2,25,4,2,2,50.0,12.5
+C003,Rahul Nair,PPL,B02,45,12.0,2026-02-20,26.7,33.0,84,0.143,42.0,16.666666666666664,17,1,180000,90000,90000,50.0,35,3,1,2,66.7,10.0

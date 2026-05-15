@@ -1,0 +1,4 @@
+cadet_id,invoiced_amount,paid_amount,outstanding_amount,last_payment_date
+C001,250000,210000,40000,2026-05-05
+C002,420000,310000,110000,2026-04-20
+C003,180000,90000,90000,2026-04-10
